@@ -5,6 +5,7 @@
     <string name="menu_title">Menu</string>
     <string name="order_title">Order</string>
     <string name="order_summary_title">Order Summary</string>
+    <string name="loading_msg">Images are being downloaded. Please wait</string>
 
     <!--Tea Names-->
     <string name="black_tea_name">Black Tea</string>
